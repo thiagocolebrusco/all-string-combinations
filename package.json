@@ -1,5 +1,5 @@
 {
-  "name": "combinations-generator",
+  "name": "all-string-combinations",
   "version": "1.0.0",
   "description": "Generate an array of all possible combinations of letters in a given string",
   "main": "index.js",
@@ -8,7 +8,8 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [
-    "combinations"
+    "combinations",
+    "string-combinations"
   ],
   "author": "thiagocolebrusco",
   "license": "ISC"
