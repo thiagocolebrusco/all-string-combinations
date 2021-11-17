@@ -1,6 +1,6 @@
 {
   "name": "all-string-combinations",
-  "version": "1.0.0",
+  "version": "0.1.0",
   "description": "Generate an array of all possible combinations of letters in a given string",
   "main": "index.js",
   "type": "module",
